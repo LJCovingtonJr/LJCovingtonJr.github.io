@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on LaRoyce J. Covington Jr</title>
+    <link>/</link>
+    <description>Recent content in Home on LaRoyce J. Covington Jr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing SumBasicR: A Frequency-Based Summarization Algorithm</title>
+      <link>/post/2020/05/10/introducing-sumbasicr-a-frequency-based-summarization-algorithm/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/10/introducing-sumbasicr-a-frequency-based-summarization-algorithm/</guid>
+      <description>Based on the work of Ani Nenkova and Lucy Vanderwende (2005), SumBasicR is an R package that generates summaries using the SumBasic, frequency-based, summarization algorithm.
+Learn more on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Introducing RougeR: An R Package for Automatic Evaluation of Summaries</title>
+      <link>/post/2020/04/27/introducing-rouger-an-r-package-for-automatic-evaluation-of-summaries/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/27/introducing-rouger-an-r-package-for-automatic-evaluation-of-summaries/</guid>
+      <description>Based on the work of Chin-Yew Lin (2004), rougeR is an R package that allows for the automatic evaluation of summaries. It currently supports ROUGE-N and ROUGE-S calculations.
+Learn more on Github.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>My Name Keeping with the practice — popular among those working with language — of describing the pronunciation and meaning of my name, I’ve decided to do so here. My full name, LaRoyce Jermaine Covington, Jr., is pronounced:
+ / lɑ: ˌrɔɪs dʒərˈmeɪn ˈkəvɪŋtən / ˈdʒuːnjə / 
+Please forgive my poor attempt at IPA.
+ My first name, LaRoyce, comes from proud African-American naming traditions.
+I sometimes go by my middle name, Jermaine, from the French Germain which in turn comes from the Latin Germanus, meaning “brother”.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>summaries on LaRoyce J. Covington Jr</title>
+    <link>/tags/summaries/</link>
+    <description>Recent content in summaries on LaRoyce J. Covington Jr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/summaries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing SumBasicR: A Frequency-Based Summarization Algorithm</title>
+      <link>/post/2020/05/10/introducing-sumbasicr-a-frequency-based-summarization-algorithm/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/10/introducing-sumbasicr-a-frequency-based-summarization-algorithm/</guid>
+      <description>Based on the work of Ani Nenkova and Lucy Vanderwende (2005), SumBasicR is an R package that generates summaries using the SumBasic, frequency-based, summarization algorithm.
+Learn more on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Introducing RougeR: An R Package for Automatic Evaluation of Summaries</title>
+      <link>/post/2020/04/27/introducing-rouger-an-r-package-for-automatic-evaluation-of-summaries/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/27/introducing-rouger-an-r-package-for-automatic-evaluation-of-summaries/</guid>
+      <description>Based on the work of Chin-Yew Lin (2004), rougeR is an R package that allows for the automatic evaluation of summaries. It currently supports ROUGE-N and ROUGE-S calculations.
+Learn more on Github.</description>
+    </item>
+    
+  </channel>
+</rss>
