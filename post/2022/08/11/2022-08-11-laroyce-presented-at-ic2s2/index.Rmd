@@ -1,0 +1,12 @@
+---
+title: LaRoyce Presented at IC2S2
+author: LaRoyce Covington
+date: '2022-07-19'
+slug: laroyce-presented-at-ic2s2
+categories: []
+tags:
+  - conference
+  - presentation
+---
+
+I had the pleasure today of giving a poster presentation at the [International Conference on Computation Social Science](https://www.ic2s2.org/) at the University of Chicago.  I was presenting on our project regarding the use of knowledge graphs for innovation prediction.  My poster can be found [here](/ic2s2poster.pdf).  I'm quite proud of it.  I used Mike Morrison's [*Betterposter*](https://twitter.com/mikemorrison/status/1110191245035479041) design scheme and I think it did a better job of communicating the project to passers-by.  

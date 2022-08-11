@@ -1,0 +1,13 @@
+---
+title: LaRoyce Delivered a Talk at S4
+author: LaRoyce Covington
+date: '2022-08-03'
+slug: laroyce-delivered-a-talk-at-s4
+categories: []
+tags:
+  - presentation
+---
+
+I was invited by Drs. [Daniel Acuna](https://acuna.io/) and [Stephen David](https://www.ohsu.edu/people/stephen-v-david-phd) to deliver a presentation on knowledge graphs for the [Science of Science Summer School](https://s4.scienceofscience.org/) (S4).  You can find a video of the talk [here](https://www.youtube.com/watch?v=2NPAOAFNxfc) and my slidedeck is available via Google Slides [here](https://docs.google.com/presentation/d/1YFIrRg5XUF4qg2Sjhq03gXs_romCxD1NrnYyW3cvNN4/edit?usp=sharing).  
+
+I was *intensely* nervous -- and I'm sure it showed! -- but I'm happy to have done it.  I was actually able to spur some discussion, which was nice given my fear that I'd be rambling on and on with an increasingly confused audience.
